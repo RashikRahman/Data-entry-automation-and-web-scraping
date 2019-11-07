@@ -1610,9 +1610,9 @@
     "restore": {
       "projectUniqueName": "QBANK",
       "projectName": "QBANK",
-      "projectPath": "D:\\code\\Projects\\Data entry automation and web scraping\\UiPath\\QBANK\\.local",
+      "projectPath": "D:\\code\\Projects\\Web form fillup automation and web scraping\\UiPath\\QBANK\\.local",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\Projects\\Data entry automation and web scraping\\UiPath\\QBANK\\.local"
+      "outputPath": "D:\\code\\Projects\\Web form fillup automation and web scraping\\UiPath\\QBANK\\.local"
     },
     "frameworks": {
       "net461": {
